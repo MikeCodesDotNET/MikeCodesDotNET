@@ -49,7 +49,7 @@ Distributed system design, Visual Studio extension development and electronics.
 
 <p>
   <a href="http://avaloniaui.net/">
-    <img src="https://github.com/MikeCodesDotNET/MikeCodesDotNET/Resources/avalonia.svg" alt="VS Marketplace" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/6f9a9537c12cccd375436a59df526f5ecaa46c42/Resources/avalonia.svg" alt="Avalonia" style="vertical-align:top; margin:4px">
   </a>
 
  <a href="https://azure.microsoft.com/en-gb/">
