@@ -4,7 +4,7 @@ Here you'll find a small sample of the projects I've hacked on over the years. Y
 
 <p align="center">
   <a href="https://mikecodes.net">
-    <img src="/Resources/personalBlog.svg" alt="Personal" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/MikeCodesDotNET/Resources/personalBlog.svg" alt="Personal" style="vertical-align:top; margin:4px">
   </a>  
 </p>
 
@@ -18,28 +18,28 @@ Distributed system design, Visual Studio extension development and electronics.
 ### 📢 Find me on elsewhere online
 <p align="center">
   <a href="https://twitter.com/mikecodesdotnet">
-    <img src="/Resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/MikeCodesDotNET/Resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   </a>  
 
   <a href="https://www.linkedin.com/in/micjames/">
-    <img src="/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/MikeCodesDotNET/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://www.instagram.com/micjames6/">
-    <img src="/Resources/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/MikeCodesDotNET/Resources/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://www.meetup.com/members/186160064/">
-    <img src="/Resources/meetup.svg" alt="Meetup" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/MikeCodesDotNET/Resources/meetup.svg" alt="Meetup" style="vertical-align:top; margin:4px">
   </a>
 
    <a href="https://marketplace.visualstudio.com/publishers/MikeJames">
-    <img src="/Resources/visualStudioExtensions.svg" alt="VS Marketplace" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/MikeCodesDotNET/Resources/visualStudioExtensions.svg" alt="VS Marketplace" style="vertical-align:top; margin:4px">
   </a>
 
 
  <a href="https://www.youtube.com/c/MichaelJames6/">
-    <img src="/Resources/youTube.svg" alt="Youtube" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/MikeCodesDotNET/Resources/youTube.svg" alt="Youtube" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
@@ -49,31 +49,31 @@ Distributed system design, Visual Studio extension development and electronics.
 
 <p>
   <a href="http://avaloniaui.net/">
-    <img src="/Resources/avalonia.svg" alt="VS Marketplace" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/MikeCodesDotNET/Resources/avalonia.svg" alt="VS Marketplace" style="vertical-align:top; margin:4px">
   </a>
 
  <a href="https://azure.microsoft.com/en-gb/">
-    <img src="/Resources/azure.svg" alt="Azure" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/MikeCodesDotNET/Resources/azure.svg" alt="Azure" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://github.com/apple/swift">
-    <img src="/Resources/swift.svg" alt="Swift" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/MikeCodesDotNET/Resources/swift.svg" alt="Swift" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://docs.microsoft.com/en-us/windows/uwp/">
-    <img src="/Resources/uwp.svg" alt="UWP" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/MikeCodesDotNET/Resources/uwp.svg" alt="UWP" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://github.com/dotnet/wpf">
-    <img src="/Resources/wpf.svg" alt="WPF" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/MikeCodesDotNET/Resources/wpf.svg" alt="WPF" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://github.com/xamarin/Xamarin.Forms">
-    <img src="/Resources/XamarinForms.svg" alt="Xamarin.Forms" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/MikeCodesDotNET/Resources/XamarinForms.svg" alt="Xamarin.Forms" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://github.com/xamarin/xamarin-macios">
-      <img src="/Resources/xamarinIOS.svg" alt="Xamarin.iOS" style="vertical-align:top; margin:4px">
+      <img src="https://github.com/MikeCodesDotNET/MikeCodesDotNET/Resources/xamarinIOS.svg" alt="Xamarin.iOS" style="vertical-align:top; margin:4px">
   </a>  
 
 
