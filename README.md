@@ -22,7 +22,7 @@ Distributed system design, Visual Studio extension development and electronics.
   </a>  
 
   <a href="https://www.linkedin.com/in/micjames/">
-    <img src="/Resources/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+    <img src="/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://www.instagram.com/micjames6/">
@@ -34,12 +34,12 @@ Distributed system design, Visual Studio extension development and electronics.
   </a>
 
    <a href="https://marketplace.visualstudio.com/publishers/MikeJames">
-    <img src="/Resources/VisualStudioExtensions.svg" alt="VS Marketplace" style="vertical-align:top; margin:4px">
+    <img src="/Resources/visualStudioExtensions.svg" alt="VS Marketplace" style="vertical-align:top; margin:4px">
   </a>
 
 
  <a href="https://www.youtube.com/c/MichaelJames6/">
-    <img src="/Resources/youtube.svg" alt="Contribuyentes" style="vertical-align:top; margin:4px">
+    <img src="/Resources/youTube.svg" alt="Youtube" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
@@ -53,27 +53,27 @@ Distributed system design, Visual Studio extension development and electronics.
   </a>
 
  <a href="https://azure.microsoft.com/en-gb/">
-    <img src="/Resources/azure.svg" alt="Contribuyentes" style="vertical-align:top; margin:4px">
+    <img src="/Resources/azure.svg" alt="Azure" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://github.com/apple/swift">
-    <img src="/Resources/swift.svg" alt="Contribuyentes" style="vertical-align:top; margin:4px">
+    <img src="/Resources/swift.svg" alt="Swift" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://docs.microsoft.com/en-us/windows/uwp/">
-    <img src="/Resources/uwp.svg" alt="Meetup" style="vertical-align:top; margin:4px">
+    <img src="/Resources/uwp.svg" alt="UWP" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://github.com/dotnet/wpf">
-    <img src="/Resources/wpf.svg" alt="Instagram" style="vertical-align:top; margin:4px">
+    <img src="/Resources/wpf.svg" alt="WPF" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://github.com/xamarin/Xamarin.Forms">
-    <img src="/Resources/xamarinForms.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+    <img src="/Resources/XamarinForms.svg" alt="Xamarin.Forms" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://github.com/xamarin/xamarin-macios">
-      <img src="/Resources/xamariniOS.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+      <img src="/Resources/xamarinIOS.svg" alt="Xamarin.iOS" style="vertical-align:top; margin:4px">
   </a>  
 
 
