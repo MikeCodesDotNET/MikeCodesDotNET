@@ -33,7 +33,7 @@ Distributed system design, Visual Studio extension development and electronics.
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/meetup.svg" alt="Meetup" style="vertical-align:top; margin:4px">
   </a>
 
-   <a href="https://marketplace.visualstudio.com/publishers/MikeJames">
+   <a href="https://marketplace.visualstudio.com/publishers/MikeJames?WT.mc_id=dotnet-0000-mijam">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/visualStudioExtensions.svg" alt="VS Marketplace" style="vertical-align:top; margin:4px">
   </a>
 
@@ -52,7 +52,7 @@ Distributed system design, Visual Studio extension development and electronics.
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/6f9a9537c12cccd375436a59df526f5ecaa46c42/Resources/avalonia.svg" alt="Avalonia" style="vertical-align:top; margin:4px">
   </a>
 
- <a href="https://azure.microsoft.com/en-gb/">
+ <a href="https://azure.microsoft.com/?WT.mc_id=dotnet-0000-mijam">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/azure.svg" alt="Azure" style="vertical-align:top; margin:4px">
   </a>
 
@@ -60,7 +60,7 @@ Distributed system design, Visual Studio extension development and electronics.
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/swift.svg" alt="Swift" style="vertical-align:top; margin:4px">
   </a>
 
-  <a href="https://docs.microsoft.com/en-us/windows/uwp/">
+  <a href="https://docs.microsoft.com/windows/uwp/?WT.mc_id=dotnet-0000-mijam">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/uwp.svg" alt="UWP" style="vertical-align:top; margin:4px">
   </a>
 
