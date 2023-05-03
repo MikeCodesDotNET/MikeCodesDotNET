@@ -1,3 +1,5 @@
-### Hi there 🎉🎈🎉🎈
+### Hello there 👋
 
-I work to make Avalonia UI better for everyone. 
+#### Working on improving Avalonia UI by day ☼ and building a .NET lighting controller by night ☾
+
+CEO at [Avalonia UI](https://avaloniaui.net)<br>
